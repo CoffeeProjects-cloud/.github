@@ -4,10 +4,10 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_coffeeprojects.cloud-0A0A0A?style=for-the-badge&logoColor=white)](https://coffeeprojects.cloud)
-[![Email](https://img.shields.io/badge/contact@coffeeprojects.cloud-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@coffeeprojects.cloud)
-[![Made in Spain](https://img.shields.io/badge/Made_in-España_🇪🇸-AA151B?style=for-the-badge)](https://coffeeprojects.cloud)
-[![Response Time](https://img.shields.io/badge/Response-<_24h-00C853?style=for-the-badge)](mailto:contact@coffeeprojects.cloud)
+[![Website](https://img.shields.io/badge/🌐_coffeeprojects.es-0A0A0A?style=for-the-badge&logoColor=white)](https://coffeeprojects.es)
+[![Email](https://img.shields.io/badge/contact@coffeeprojects.es-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@coffeeprojects.es)
+[![Made in Spain](https://img.shields.io/badge/Made_in-España_🇪🇸-AA151B?style=for-the-badge)](https://coffeeprojects.es)
+[![Response Time](https://img.shields.io/badge/Response-<_24h-00C853?style=for-the-badge)](mailto:contact@coffeeprojects.es)
 
 <br/>
 
@@ -184,7 +184,7 @@ Bots de Discord, integraciones, automatizaciones, dashboards. Si se puede progra
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 coffeeprojects.cloud
+### 🌐 coffeeprojects.es
 > Nuestra propia web
 
 Diseño y desarrollo completos: animaciones GSAP, formulario integrado con email, cabeceras de seguridad y optimización SEO.
@@ -283,9 +283,9 @@ while (coffee) {
 
 **¿Tienes una idea?** Cuéntanosla. Te respondemos en menos de 24h con una propuesta inicial.
 
-[![Web](https://img.shields.io/badge/🌐_coffeeprojects.cloud-000000?style=for-the-badge)](https://coffeeprojects.cloud)
-[![Email](https://img.shields.io/badge/📧_contact@coffeeprojects.cloud-EA4335?style=for-the-badge)](mailto:contact@coffeeprojects.cloud)
-[![Presupuesto](https://img.shields.io/badge/☕_Pedir_presupuesto-6F4E37?style=for-the-badge)](https://coffeeprojects.cloud/#contacto)
+[![Web](https://img.shields.io/badge/🌐_coffeeprojects.es-000000?style=for-the-badge)](https://coffeeprojects.es)
+[![Email](https://img.shields.io/badge/📧_contact@coffeeprojects.es-EA4335?style=for-the-badge)](mailto:contact@coffeeprojects.es)
+[![Presupuesto](https://img.shields.io/badge/☕_Pedir_presupuesto-6F4E37?style=for-the-badge)](https://coffeeprojects.es/#contacto)
 
 </div>
 
